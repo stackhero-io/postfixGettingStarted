@@ -1,0 +1,13 @@
+{
+  "name": "postfix",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "nodemailer": "^4.7.0"
+  },
+  "scripts": {
+    "start": "npm install && node app.js"
+  }
+}
